@@ -48,4 +48,4 @@ all of it.
 
 Questions about this policy or the app:
 
-**Meduno** — kzijderveld@meduno.eu
+**Meduno** — karymzijderveld@gmail.com
