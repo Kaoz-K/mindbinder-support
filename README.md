@@ -33,6 +33,6 @@ when you use the assistant.
 
 Bug reports, questions and feature requests:
 
-**Email:** kzijderveld@meduno.eu
+**Email:** karymzijderveld@gmail.com
 
 We aim to reply within a few business days.
