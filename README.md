@@ -54,10 +54,10 @@ It is optional and off by default. Connect your own Anthropic API key in
 Settings to enable it; selected text is then sent directly to Anthropic only
 when you use the assistant.
 
-**How does MindBinder Pro work?**
-The core app is free. MindBinder Pro is an optional subscription
-(€2.99/month or €29.99/year, with a 1-month free trial) that unlocks the full
-writing toolkit. Manage or cancel anytime via your App Store subscriptions.
+**How does the subscription work?**
+Your first month is free. After the trial, MindBinder is €2.99/month or
+€29.99/year (save 16%). Manage or cancel anytime via your App Store
+subscriptions.
 
 ## Contact
 
