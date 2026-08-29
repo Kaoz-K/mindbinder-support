@@ -59,10 +59,12 @@ Your first month is free. After the trial, MindBinder is €2.99/month or
 €29.99/year (save 16%). Manage or cancel anytime via your App Store
 subscriptions.
 
-## Contact
+## Support, bugs & feature requests
 
-Bug reports, questions and feature requests:
+All support runs through GitHub Issues:
 
-**Email:** karymzijderveld@gmail.com
+- **[🐞 Report a bug](https://github.com/Kaoz-K/mindbinder-support/issues/new?template=bug_report.yml)**
+- **[💡 Request a feature](https://github.com/Kaoz-K/mindbinder-support/issues/new?template=feature_request.yml)**
+- **[📋 Browse open issues](https://github.com/Kaoz-K/mindbinder-support/issues)** — your bug or idea may already be reported; add a 👍 to help us prioritise.
 
-We aim to reply within a few business days.
+We aim to respond within a few business days.
